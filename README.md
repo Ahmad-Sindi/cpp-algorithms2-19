@@ -29,17 +29,12 @@ Creating a reusable random number function
 Example Output:
 
 32764 
-
----  
+  
 7  
-
----  
+ 
 43  
 
----  
-512  
-
----  
+512   
 
 84219  
 
